@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Schneider;Paul;;;
+FN:Paul Schneider
+ORG:VALOREM HEALTH
+ADR;TYPE=WORK:Bochum, Germany
+TITLE:Director
+TEL;TYPE=CELL:+4915114966913
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:schneider@valorem.health
+URL;TYPE=Digital Business Card:https://bitowaqr.github.io/me/
+URL:https://valorem.health
+URL;TYPE=Website:https://valorem.health
+URL;TYPE=LinkedIn:https://linkedin.com/in/dr-paul-schneider
+URL;TYPE=Twitter:https://twitter.com/waq0r
+URL;TYPE=GitHub:https://github.com/bitowaqr
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100669182
+END:VCARD
