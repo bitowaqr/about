@@ -285,8 +285,17 @@
         </div>
       </div>
       <div class="actionsC">
-        <div class="actionBtn"><a href="tel:+4915114966913" target="_blank"
-            rel="noopener noreferrer" aria-label="Mobile"
+        <script>
+          function opentel() {
+            let t1 = "+49";
+            let t2 = "151";
+            let t3 = "149";
+            let t4 = "66";
+            let t5 = "913";
+            window.open("tel:" + t1 + t2 + t3 + t4 +t5, "_blank" , "noopener noreferrer");
+          }
+        </script>
+        <div class="actionBtn"><a onclick="opentel()" aria-label="Mobile" role="button" href=""
             style="background-color: rgb(255, 95, 86);">
             <div class="icon iconColor"><svg viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg" xml:space="preserve"
